@@ -52,6 +52,16 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.8 | [EviGraph: Evidence-Guided Autonomous Research Agents](https://arxiv.org/abs/2608.04738) | arXiv |
+| 2026.8 | [A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](https://arxiv.org/abs/2608.05791) | arXiv |
+| 2026.8 | [Self-Correcting Long-Horizon Search Agents via Tree-Structured Memory](https://arxiv.org/abs/2608.10676) | arXiv |
+| 2026.7 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | arXiv |
+| 2026.7 | [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://arxiv.org/abs/2607.24223) | arXiv |
+| 2026.7 | [Distilling Temporal Search and Reasoning: Evolving LLMs for Future Prediction via Harness-Assisted Efficient Data Synthesis](https://arxiv.org/abs/2607.25554) | arXiv |
+| 2026.7 | [EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents](https://arxiv.org/abs/2607.28229) | arXiv |
+| 2026.7 | [FinanceHarness: Autonomous Financial Deep Research Framework](https://arxiv.org/abs/2607.27853) | arXiv |
+| 2026.7 | [DeepResearch Agent System](https://arxiv.org/abs/2607.2756) | arXiv |
+| 2026.7 | [WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](https://arxiv.org/abs/2607.08662) | arXiv |
 | 2026.7 | [Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering](https://arxiv.org/abs/2607.00972) | arXiv |
 | 2026.6 | [One Reflection Is Not Enough: Self-Correcting Autonomous Research via Multi-Hypothesis Failure Attribution](https://arxiv.org/abs/2606.31478) | arXiv |
 | 2026.6 | [Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty](https://arxiv.org/abs/2606.25198) | arXiv |
@@ -204,6 +214,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.7 | [Why Does Feedback-Augmented Self-Distillation Fail to Improve Retrieval-Interleaved Search Agents?](https://arxiv.org/abs/2607.17558) | arXiv |
+| 2026.7 | [Think Big, Search Small: Where Capacity Matters in Hierarchical Search Agents?](https://arxiv.org/abs/2607.07548) | arXiv |
 | 2026.6 | [Contrastive Reflection for Iterative Prompt Optimization](https://arxiv.org/abs/2606.30840) | arXiv |
 | 2026.6 | [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](https://arxiv.org/abs/2606.14672) | arXiv |
 | 2026.6 | [FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents](https://arxiv.org/abs/2606.12087) | arXiv |
@@ -250,6 +262,36 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 
 | Time    | Paper Title                                                                                                                                                                      | Venue         |
 | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 2026.8 | [Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember](https://arxiv.org/abs/2607.29468) | arxiv |
+| 2026.8 | [Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent](https://arxiv.org/abs/2608.03979) | arxiv |
+| 2026.8 | [ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment](https://arxiv.org/abs/2608.05102) | arxiv |
+| 2026.8 | [EASy: Towards Efficient LLM-Based Agentic System](https://arxiv.org/abs/2608.04588) | arxiv |
+| 2026.8 | [HERALD: Counterfactual Audits and Minimal Repairs for Proof-of-Retrieval Rewards](https://arxiv.org/abs/2608.06012) | arxiv |
+| 2026.8 | [Contextual Information Policy Optimization for Search Agents](https://arxiv.org/abs/2608.06128) | arxiv |
+| 2026.8 | [Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning](https://arxiv.org/abs/2608.05245) | arxiv |
+| 2026.8 | [Personalized Deep Research Query Refinement with Graph-Scaffolded Evidence Grounding](https://arxiv.org/abs/2608.05876) | arxiv |
+| 2026.8 | [LoongReflect: Boosting Long-Horizon Reflection in Search Agents via Global Perspective Distillation](https://arxiv.org/abs/2608.11967) | arxiv |
+| 2026.8 | [ExRole: From Team Trajectories to Executable Roles in Multi-Agent Language Models](https://arxiv.org/abs/2608.11949) | arxiv |
+| 2026.8 | [Mitigating Context Interference for Reliable and Efficient Search Agents](https://arxiv.org/abs/2608.10743) | arxiv |
+| 2026.7 | [Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism](https://arxiv.org/abs/2607.12640) | arxiv |
+| 2026.7 | [LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning](https://arxiv.org/abs/2607.13501) | arxiv |
+| 2026.7 | [ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability](https://arxiv.org/abs/2607.14145)) | arxiv |
+| 2026.7 | [CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn Evidence-Reading LLM Agents](https://arxiv.org/abs/2607.16244) | arxiv |
+| 2026.7 | [PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21419) | arxiv |
+| 2026.7 | [Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness](https://arxiv.org/abs/2607.24162) | arxiv |
+| 2026.7 | [Reason Before You Retrieve: Agentic Planning for Multi-modal RAG](https://arxiv.org/abs/2607.22643) | arxiv |
+| 2026.7 | [Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results](https://arxiv.org/abs/2607.20090) | arxiv |
+| 2026.7 | [PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.21419) | arxiv |
+| 2026.7 | [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461) | arxiv |
+| 2026.7 | [WikiLoop: Jointly Learning to Build and Navigate Agent-Native Wikis with Downstream Feedback](https://arxiv.org/abs/2607.26604) | arxiv |
+| 2026.7 | [EviBack: Search-Agent Reinforcement Learning via Evidence-Constrained Teacher Backoff](https://arxiv.org/abs/2607.23955) | arxiv |
+| 2026.7 | [Speculate While You Reason: Teaching Agents to Predict Their Next Tool Call via Joint Agent-Speculator RL](https://arxiv.org/abs/2607.25816) | arxiv |
+| 2026.7 | [Harness-G: A Graph-Structured Harness for Search Agents](https://arxiv.org/abs/2607.27652) | arxiv |
+| 2026.7 | [Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn LLM Agents](https://arxiv.org/abs/2607.06223) | arxiv |
+| 2026.7 | [SearchEyes: Towards Frontier Multimodal Deep Search Intelligence via Search World Simulation](https://arxiv.org/abs/2607.05943) | arxiv |
+| 2026.7 | [DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment](https://arxiv.org/abs/2607.07820) | arxiv |
+| 2026.7 | [Mach-Mind-4-Flash Technical Report](https://arxiv.org/abs/2607.09375) | arxiv |
+| 2026.7 | [AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs](https://arxiv.org/abs/2607.09092) | arxiv |
 | 2026.7 | [Multi-Turn Agentic Scientific Literature Search via Workflow Induction](https://arxiv.org/abs/2607.00597) | arXiv |
 | 2026.6 | [ECHO: Prune to act, trace to learn with selective turn memory in agentic RL](https://arxiv.org/abs/2606.31650) | arXiv |
 | 2026.6 | [ReGRPO: Reflection-Augmented Policy Optimization for Tool-Using Agents](https://arxiv.org/abs/2606.31392) | arXiv |
@@ -678,7 +720,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | BioMedArena | [BioMedArena: An Open-source Toolkit for Building and Evaluating Biomedical Deep Research Agents](http://arxiv.org/abs/2605.06177) | arXiv 2026 |
 | SVFSearch | [SVFSearch: A Multimodal Knowledge-Intensive Benchmark for Short-Video Frame Search in the Gaming Vertical Domain](https://arxiv.org/abs/2605.17946) | arXiv 2026 |
 | BigFinanceBench | [BigFinanceBench: A Workflow-Grounded Benchmark for Financial-Research Agents](https://arxiv.org/abs/2606.03829) | arXiv 2026 |
-
+| Telco-GAIA | [Telco-GAIA: Bilingual Benchmark for Agents in Telecom Domain](https://arxiv.org/abs/2607.20510) | arXiv 2026 |
+| FinResearchBench II: | [FinResearchBench II: A Deep Research Benchmark with Consensus-Derived Gold Rubrics for Distinguishing Financial Report Quality](https://arxiv.org/abs/2607.1225) |arXiv 2026 |
 
 ### Other Aspect
 
@@ -714,5 +757,13 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | MERRIN | [MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments](https://arxiv.org/abs/2604.13418) | arXiv 2026 |
 | / | [Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents](https://arxiv.org/abs/2605.06635) | arXiv 2026 |
 | DailyReport | [DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks](https://arxiv.org/abs/2606.12871)) | arXiv 2026 |
+| DISCOBENCH | [When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search](https://arxiv.org/abs/2606.27669) | arXiv 2026 |
+| DRFLOW | [DRFLOW: A Deep Research Benchmark for Personalized Workflow Prediction](https://arxiv.org/abs/2606.18191) | arXiv 2026 |
+| PACE | [PACE: A Proxy for Agentic Capability Evaluation](https://arxiv.org/abs/2607.02032) | arXiv 2026 |
+| DRNOISE | [DRNOISE: Benchmarking Deep Research Agents in Misleading Evidence Environments](https://arxiv.org/abs/2607.17291) | arXiv 2026 |
+| SimpleWikiSearch | [SimpleWikiSearch: A Clean Offline Wikipedia Environment for Agentic Search](https://arxiv.org/abs/2607.26070) | arXiv 2026 |
+| DeepStress | [DeepStress: Stress-Testing Deep Search Agents](https://arxiv.org/abs/2607.13920) | arXiv 2026 |
+| SearchAuditor: | [SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents](https://arxiv.org/abs/2608.05212) | arXiv 2026 |
+| EcoAgent-Bench | [EcoAgent-Bench: Evaluating Economic Decision-Making in Budget-Constrained LLM Agents](https://arxiv.org/abs/2608.05519) | arXiv 2026 |
 
 Feel free to open an issue or PR to add new papers and benchmarks!
