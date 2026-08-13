@@ -693,7 +693,8 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | RAGChecker   | [RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](https://arxiv.org/abs/2408.08067)                                                    | arXiv 2024    |
 | DRComparator | [Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](https://arxiv.org/abs/2507.05495)                                       | arXiv 2025    |
 | RAVine       | [RAVine: Reality-Aligned Evaluation for Agentic Search](https://arxiv.org/abs/2507.16725)                                                                                 | arXiv 2025    |
-| WideSearch   | [WideSearch: Benchmarking Agentic Broad Info-Seeking](https://arxiv.org/abs/2508.07999)  | arXiv 2025 | 
+| WideSearch   | [WideSearch: Benchmarking Agentic Broad Info-Seeking](https://arxiv.org/abs/2508.07999)  | arXiv 2025 |
+| ClawBench | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) | arXiv 2026 |
 | InfoMosaic-Bench	|  [InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents](https://arxiv.org/abs/2510.02271)	|  arXiv 2025	|
 | DeepResearchGuard	| [DeepResearchGuard: Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety](https://arxiv.org/abs/2510.10994) | arXiv 2025	|
 | Pre-Exec Bench | [Building a Foundational Guardrail for General Agentic Systems via Synthetic Data](https://arxiv.org/abs/2510.09781) | arXiv 2025 |
@@ -715,4 +716,3 @@ For a deeper look, check out our survey paper: [A Survey of LLM-based Deep Searc
 | DailyReport | [DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks](https://arxiv.org/abs/2606.12871)) | arXiv 2026 |
 
 Feel free to open an issue or PR to add new papers and benchmarks!
-
